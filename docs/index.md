@@ -49,6 +49,7 @@ Input voltage must abide by Wemos limit (ME6211 = 6V max), or you can solder in 
 | Top | Bottom |
 |:---:|:------:|
 | <img src="img/d1m-top.png"> | <img src="img/d1m-btm.png"> |
+
 <p align="center">Initial prototype built by JCLPCB</p>
 
 
