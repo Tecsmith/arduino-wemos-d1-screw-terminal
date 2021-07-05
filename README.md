@@ -1,8 +1,13 @@
-# Screw terminal board for Wemos / Lolin D1 Mini
+# Screw terminal board for Wemos / LOLIN D1 Mini / Mini Pro
 
 | Board | URL |
 |---|---|
-| [LOLIN D1 Mini Screw Terminal Breakout](https://tecsmith.github.io/arduino-fan-control-v2/wemos-d1-screw-terminal.html) |  [`c1k.it/d1m1`](http://c1k.it/d1m1) |
+| [Wemos / LOLIN D1 Mini Screw Terminal Breakout](https://tecsmith.github.io/arduino-wemos-d1-screw-terminal/) |  [`c1k.it/d1m1`](http://c1k.it/d1m1) |
+
+
+## Help, About, *etc.*
+
+Refer to the [docs folder](docs/index.md).
 
 
 <p align="center" style="color:#069">★</p>
