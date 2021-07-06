@@ -6,6 +6,7 @@
 
 GitHub repository at [Tecsmith/arduino-wemos-d1-screw-terminal](https://github.com/Tecsmith/arduino-wemos-d1-screw-terminal/)
 
+----------
 
 ## Specifications
 
@@ -17,6 +18,7 @@ GitHub repository at [Tecsmith/arduino-wemos-d1-screw-terminal](https://github.c
   - It's recommended to use a [Pololu 5V Step-Up/-Down V-Regulator S10V4F5](https://www.pololu.com/product/2121)
   - Must CUT JP1 if Voltage Regulator is used!!
 
+----------
 
 ## On Board Jumpers
 
@@ -38,6 +40,7 @@ Input voltage must abide by Wemos limit (ME6211 = 6V max), or you can solder in 
 - Connected _(default)_: LED shows power state
 - Cut: LED disabled
 
+----------
 
 ## Manufacturing
 
